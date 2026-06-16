@@ -1,0 +1,17 @@
+# Älä koskaan laita GitHubiin!
+.env
+*.db
+moska.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
